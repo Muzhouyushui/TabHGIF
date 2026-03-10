@@ -468,25 +468,3 @@ In this repository, RELOAD baselines are implemented in baseline_Tabnet/ using a
 FT Baselines
 
 FT-related folders contain fine-tuning baselines used to compare practical post-edit adaptation strategies against TabHGIF in supplementary/revision experiments.
-
-14. Citation
-
-If you use this code in your research, please cite the corresponding paper.
-
-@article{TabHGIF2026,
-  title   = {TabHGIF: A Unified Hypergraph Influence Framework for Efficient Unlearning in Tabular Data},
-  author  = {<Author List>},
-  journal = {<Venue / Under Review>},
-  year    = {2026}
-}
-15. Contact
-
-For questions about the code, experiments, or reproduction details, please contact:
-
-Name: <Your Name>
-
-Email: <your_email@example.com>
-
-16. Acknowledgment
-
-This repository includes implementations and experimental pipelines for hypergraph backbones, influence-function-based unlearning modules, tabular blind unlearning baselines, and privacy evaluation used in the TabHGIF project. We thank the open-source community for the libraries and tools used in this work.
